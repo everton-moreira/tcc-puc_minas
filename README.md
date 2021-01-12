@@ -16,4 +16,4 @@ Nesse diretório encontram-se arquivos contendo os datasets e scripts de anális
 
 - Dashboard - Visão segundo turno.ipynb
 
-#### Arquivo VaderSentiment.zip contém arquivos adaptados para detecção de emoções em textos pt-br
+#### Pasta vaderSentiment contém arquivos adaptados para detecção de emoções em textos pt-br
